@@ -11,8 +11,7 @@ This repository contains valuable resources for data engineering professionals!
 
 ### Companies
 - **Orchestration**
-  - [Data Lake / Cloud](https://example.com)
-  - [Microsoft](https://example.com)
+   - [Microsoft](https://www.microsoft.com/de-de)
   - [Databricks](https://example.com)
   - [Onehouse](https://example.com)
 - **Data Warehouse**

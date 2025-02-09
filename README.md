@@ -15,7 +15,7 @@ This repository contains valuable resources for data engineering professionals!
   - [Databricks](https://example.com)
   - [Onehouse](https://example.com)
 - **Data Warehouse**
-  - [Snowflake](https://example.com)
+  - [Snowflake](https://www.snowflake.com/en/emea)
 - **Data Quality**
   - [Great Expectations](https://example.com)
 - **Education Companies**

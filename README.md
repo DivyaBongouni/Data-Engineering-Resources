@@ -6,7 +6,7 @@ This repository contains valuable resources for data engineering professionals!
 
 ### Communities
 - [Microsoft Fabric Community](https://community.fabric.microsoft.com)
-- [r/MicrosoftFabric](https://example.com)
+- [r/MicrosoftFabric](https://example.com](https://www.reddit.com/r/MicrosoftFabric/?rdt=55105))
 - [Data Engineering Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering)
 
 ### Companies

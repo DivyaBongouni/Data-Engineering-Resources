@@ -8,7 +8,9 @@ This repository contains resources of data engineering space!
 - [Microsoft Fabric Community](https://community.fabric.microsoft.com)
 - [r/MicrosoftFabric](https://www.reddit.com/r/MicrosoftFabric/?rdt=55105)
 - [Data Engineering Wiki](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering)
-
+- Informatica(https://informatica.com)
+- PowerBI(https://www.microsoft.com/en-us/power-platform/products/power-bi)
+- Tableau(https://www.tableau.com/)
 ### Companies
 
 - **Orchestration**

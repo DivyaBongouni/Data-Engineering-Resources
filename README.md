@@ -4,38 +4,10 @@ This repository contains valuable resources for data engineering professionals!
 
 ## Resources
 
-### Books
-- [The Fundamentals of Data Engineering](https://example.com)
-- [Designing Data-Intensive Applications](https://example.com)
-- [Designing Machine Learning Systems](https://example.com)
-- [The Hundred Page Machine Learning Book](https://example.com)
-- [Kimball - The Data Warehouse Toolkit](https://example.com)
-- [Data Mesh](https://example.com)
-- [Machine Learning System Design Interview](https://example.com)
-- [Streaming Systems](https://example.com)
-- [High Performance Spark](https://example.com)
-- [Building Evolutionary Architectures, 2nd Edition](https://example.com)
-- [Data Management at Scale, 2nd Edition](https://example.com)
-- [Deciphering Data Architectures](https://example.com)
-- [97 Things Every Data Engineer Should Know: Collective Wisdom from the Experts](https://example.com)
-- [Data Governance: The Definitive Guide](https://example.com)
-- [Trino: The Definitive Guide](https://example.com)
-- [Delta Lake: The Definitive Guide](https://example.com)
-- [Hadoop: The Definitive Guide](https://example.com)
-- [Modern Data Engineering with Apache Spark: A Hands-On Guide for Building Mission-Critical Streaming Applications](https://example.com)
-- [Data Engineering with dbt: A Practical Guide to Building a Dependable Data Platform with SQL](https://example.com)
-- [Data Engineering with AWS](https://example.com)
-- [Practical DataOps: Delivering Agile Data Science at Scale](https://example.com)
-- [Data Engineering Design Patterns](https://example.com)
-
 ### Communities
-- [Seattle Data Guy Discord](https://example.com)
-- [Data Engineer Things Slack](https://example.com)
-- [Microsoft Fabric Community](https://example.com)
+- [Microsoft Fabric Community]([https://example.com](https://community.fabric.microsoft.com/))
 - [r/MicrosoftFabric](https://example.com)
-- [Data Talks Club Slack](https://example.com)
-- [SylphAI for Data Professional Matchmaking](https://example.com)
-- [Data Engineering Wiki](https://example.com)
+- [Data Engineering Wiki]([https://example.com](https://dataengineering.wiki/Guides/Getting+Started+With+Data+Engineering))
 
 ### Companies
 - **Orchestration**

@@ -1,6 +1,6 @@
 # Data-Engineering-Resources
 
-This repository contains valuable resources for data engineering professionals!
+This repository contains resources of data engineering space!
 
 ## Resources
 

@@ -40,7 +40,6 @@ This repository contains valuable resources for data engineering professionals!
 ### Companies
 - **Orchestration**
   - [Data Lake / Cloud](https://example.com)
-  - [Tabular](https://example.com)
   - [Microsoft](https://example.com)
   - [Databricks](https://example.com)
   - [Onehouse](https://example.com)
@@ -57,7 +56,6 @@ This repository contains valuable resources for data engineering professionals!
   - [Microsoft Data Architecture Blogs](https://example.com)
   - [Microsoft Fabric Blog](https://example.com)
   - [Oracle](https://example.com)
-  - [Meta](https://example.com)
   - [Onehouse](https://example.com)
 
 ### Data Engineering Whitepapers
@@ -68,9 +66,8 @@ This repository contains valuable resources for data engineering professionals!
 - [The Google File System](https://example.com)
 - [Building a Universal Data Lakehouse](https://example.com)
 
-### Great YouTube Channels
+### YouTube Channels
 
-#### 100k+ Subscribers
 - [E-learning Bridge](https://example.com)
 - [TrendyTech](https://example.com)
 - [Darshil Parmar](https://example.com)
@@ -81,19 +78,15 @@ This repository contains valuable resources for data engineering professionals!
 - [Adam Marczak](https://example.com)
 - [nullQueries](https://example.com)
 - [TECHTFQ by Thoufiq](https://example.com)
-
-#### 10k+ Subscribers
 - [Data with Zach](https://example.com)
 - [Seattle Data Guy](https://example.com)
 - [Azure Lib](https://example.com)
 - [Advancing Analytics](https://example.com)
 - [Kahan Data Solutions](https://example.com)
 - [Ankit Bansal](https://example.com)
-
-#### 1k+ Subscribers
 - [Eric Roby](https://example.com)
 
-### Great Podcasts
+### Podcasts
 - [The Data Engineering Show](https://example.com)
 - [Data Engineering Podcast](https://example.com)
 - [DataTopics](https://example.com)

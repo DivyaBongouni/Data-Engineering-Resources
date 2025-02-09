@@ -19,8 +19,6 @@ This repository contains valuable resources for data engineering professionals!
   - [Snowflake](https://www.snowflake.com/)
   - [BigQuery](https://cloud.google.com/bigquery)
   - [Databricks](https://www.databricks.com/)
-- **Data Quality**
-  - [Great Expectations](https://greatexpectations.io/)
 - **Education Companies**
   - [DataEngineer.io](https://www.dataengineer.io/)
   - [LearnDataEngineering.com](https://www.learndataengineering.com/)
